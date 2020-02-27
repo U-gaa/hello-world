@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Hi humans
+
+Im ryu and it's an honor to be using github, lets make great collaborations
